@@ -3,7 +3,7 @@
 
 # Biografia
 
-1 ano de experiencia no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolimento moible, web, automações e outros.
+1 ano de experiencia no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento moible, web, automações e outros.
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
