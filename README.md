@@ -18,8 +18,8 @@
 
 
 # Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=MeuCurriculo)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=MeuCurriculo)](https://github.com/Bamarcheti/MeuCurriculo)
 
 
 # Contatos
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/barbara-marcheti-fiorin)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://linkedin.com/in/barbara-marcheti-fiorin)
