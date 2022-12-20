@@ -3,7 +3,7 @@
 
 # Biografia
 
-1 ano de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
+> *Tenho 20 anos. Estou no último semestre de Análise e Desenvolvimento de Sistema (TADS) na Faculdade Insted. Trabalho a quase um ano na área de programação. Tenho bastante interesse na área de desenvolvimento de software. No momento tenho atuado mais como Front-End, mas estou estudando Node.js para poder atuar Full Stack. Tenho conhecimento em JavaScript, HTML e CSS, Vue.js Básico e React.js. Estou sempre estudando e procurando melhorar.*
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
