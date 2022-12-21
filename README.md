@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá, sou a Bárbara 👋
 
 
 # Biografia
