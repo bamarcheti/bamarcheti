@@ -20,7 +20,7 @@
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamarcheti&show_icons=true&theme=radical)
 
 # Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=MeuCurriculo)](https://github.com/Bamarcheti/MeuCurriculo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=my-resume)](https://github.com/Bamarcheti/my-resume)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=Portfolio)](https://github.com/Bamarcheti/Portfolio)
 
 
