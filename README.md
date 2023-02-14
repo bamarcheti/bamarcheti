@@ -5,6 +5,7 @@
 
 > *Tenho 20 anos. Estou no último semestre de Análise e Desenvolvimento de Sistema (TADS) na Faculdade Insted. Trabalho a quase um ano na área de programação. Tenho bastante interesse na área de desenvolvimento de software. No momento tenho atuado mais como Front-End, mas estou estudando Node.js para poder atuar Full Stack. Tenho conhecimento em JavaScript, HTML e CSS, Vue.js Básico e React.js. Estou sempre estudando e procurando melhorar.*
 
+## 🛠 Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,12 +25,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=Portfolio)](https://github.com/Bamarcheti/Portfolio)
 
 
-# Contatos
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://linkedin.com/in/barbara-marcheti-fiorin)
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfpJzMRbtdmfPVGSlMNJhNzwcRFWMLTQtKdzXHkCKNnrjwHVlZcsZlKtNVBKKxGjpwBjGV)
-[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/ba_marcheti/)
-[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='GitHub' height='30'>](https://github.com/Bamarcheti)
+# 💛 Contato
+
+[<img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white' alt='Website' height='30'>](https://my-resume-bamarcheti.vercel.app/)
 [<img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white' alt='Discord' height='30'>](https://discord.com/channels/@ba_marcheti#3824)
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/ba_marcheti)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/barbara-marcheti-fiorin/)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](bmarchetifiorin@gmail.com)
 
 
 # Criadores
