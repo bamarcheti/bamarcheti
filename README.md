@@ -1,7 +1,6 @@
 ### Olá, sou a Bárbara 👋
 
-
-# Biografia
+# 👩🏻 Biografia
 
 > *Tenho 20 anos. Estou no último semestre de Análise e Desenvolvimento de Sistema (TADS) na Faculdade Insted. Trabalho a quase um ano na área de programação. Tenho bastante interesse na área de desenvolvimento de software. No momento tenho atuado mais como Front-End, mas estou estudando Node.js para poder atuar Full Stack. Tenho conhecimento em JavaScript, HTML e CSS, Vue.js Básico e React.js. Estou sempre estudando e procurando melhorar.*
 
@@ -12,15 +11,14 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamarcheti&show_icons=true&theme=radical)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamarcheti&layout=compact&langs_count=7&theme=radical)
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamarcheti&show_icons=true&theme=radical)
-
-# Projetos
+# 📈 Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=my-resume)](https://github.com/Bamarcheti/my-resume)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=Portfolio)](https://github.com/Bamarcheti/Portfolio)
 
@@ -34,7 +32,7 @@
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](bmarchetifiorin@gmail.com)
 
 
-# Criadores
+# 💻 Criadores
 
 |                                                                                                                                                    Author                                                                                                                                                     |                                                                                                                                     Collaborator                                                                                                                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
