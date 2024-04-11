@@ -2,7 +2,7 @@
 
 # 👩🏻 Biografia
 
-> *Sou graduada em Análise e Desenvolvimento de Sistemas (TADS) na Faculdade Insted. Trabalho a 2 anos com programação. Tenho bastante interesse e paixão por essa área. Eu iniciei com Vue.js e depois com React.js. No momento tenho utilizado React.js, Tailwind, TypeScript e Next.js, algumas libs são Headless UI, react-router-dom e outras. Eu já utilizei material ui e também styled-components em outro projeto. No trabalho desenvolvo projetos como Holerite, Carreiras e site. Todos em foco na usabilidade, utilidade e desejabilidade do usuário e responsividade. Estou sempre estudando e procurando melhorar. Tenho disponibilidade para trabalhar em qualquer modelo de trabalho que a empresa ofertar: presencial, híbrido ou remoto.*
+> *Sou graduada em Análise e Desenvolvimento de Sistemas (TADS) na Faculdade Insted. Trabalho há 2 anos com programação. Eu iniciei com Vue.js e hoje utilizo as ferramentas: React.js, Next.js, TypeScript, Tailwind, Prettier e ESLint, Headless UI, react-router-dom e outras. Eu já utilizei material ui e também styled-components em outros projetos. Atuo nos projetos internos da empresa como: Sistema de Gestão de Pessoas e Site da empresa. Todos com foco na usabilidade e acessibilidade do usuário, responsividade para desktop, tablet e mobile, integração com APIs,e arquitetura e código limpo. Tenho disponibilidade para trabalhar em qualquer modelo de trabalho que a empresa ofertar: presencial, híbrido ou remoto.*
 
 <br />
 
@@ -18,14 +18,14 @@
 
 # 🛠 Tecnologias
 <details align="left">
-  <summary>Forte</summary> 
+  <summary><strong>Forte</strong></summary> 
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </details>
 
 <details align="left">
-  <summary>Média</summary> 
+  <summary><strong>Média</strong></summary> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -36,20 +36,20 @@
 </details>
 
 <details align="left">
-  <summary>Fraca</summary>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <summary><strong>Fraca</strong></summary>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 </details>
 
 <br />
 
 # 📈 Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=my-resume)](https://github.com/Bamarcheti/my-resume)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=Portfolio)](https://github.com/Bamarcheti/Portfolio)
+[![my-resume](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=my-resume)](https://github.com/Bamarcheti/my-resume)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=Portfolio)](https://github.com/Bamarcheti/Portfolio)
 
 <br />
 
