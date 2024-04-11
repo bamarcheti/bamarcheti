@@ -1,45 +1,77 @@
-### Olá, sou a Bárbara 👋
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=A259FF&vCenter=true&random=false&width=610&height=60&lines=Ol%C3%A1%2C+eu+sou+a+B%C3%A1rbara!++%F0%9F%91%8B%F0%9F%93%9A%F0%9F%92%9C)](https://git.io/typing-svg)
 
 # 👩🏻 Biografia
 
 > *Sou graduada em Análise e Desenvolvimento de Sistemas (TADS) na Faculdade Insted. Trabalho a 2 anos com programação. Tenho bastante interesse e paixão por essa área. Eu iniciei com Vue.js e depois com React.js. No momento tenho utilizado React.js, Tailwind, TypeScript e Next.js, algumas libs são Headless UI, react-router-dom e outras. Eu já utilizei material ui e também styled-components em outro projeto. No trabalho desenvolvo projetos como Holerite, Carreiras e site. Todos em foco na usabilidade, utilidade e desejabilidade do usuário e responsividade. Estou sempre estudando e procurando melhorar. Tenho disponibilidade para trabalhar em qualquer modelo de trabalho que a empresa ofertar: presencial, híbrido ou remoto.*
 
-## 🛠 Tecnologias
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![ESLint](	https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+<br />
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+|   |   |
+|:---:|:---:|
+|Most Used Languages|GitHub Stats|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamarcheti&layout=compact&langs_count=7&theme=radical) | ![](https://github-readme-stats.vercel.app/api?username=Bamarcheti&show_icons=true&theme=radical) |
+  |GitHub Commits|Details|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bamarcheti&theme=radical&utcOffset=-8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bamarcheti&theme=radical) |
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamarcheti&show_icons=true&theme=radical)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamarcheti&layout=compact&langs_count=7&theme=radical)
+
+# 🛠 Tecnologias
+<details align="left">
+  <summary>Forte</summary> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</details>
+
+<details align="left">
+  <summary>Média</summary> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
+  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+</details>
+
+<details align="left">
+  <summary>Fraca</summary>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+</details>
+
+<br />
 
 # 📈 Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=my-resume)](https://github.com/Bamarcheti/my-resume)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=Portfolio)](https://github.com/Bamarcheti/Portfolio)
 
+<br />
 
-# 💛 Contato
+# 💜 Contato
+[![](https://skillicons.dev/icons?i=vercel&perline=1)](https://my-resume-bamarcheti.vercel.app/)
+[![](https://skillicons.dev/icons?i=discord&perline=1)](https://discord.com/channels/@ba_marcheti#3824)
+[![](https://skillicons.dev/icons?i=instagram&perline=1)](https://www.instagram.com/ba_marcheti)
+[![](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/barbara-marcheti-fiorin/)
+[![](https://skillicons.dev/icons?i=gmail&perline=1)](bmarchetifiorin@gmail.com)
 
-[<img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white' alt='Website' height='30'>](https://my-resume-bamarcheti.vercel.app/)
-[<img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white' alt='Discord' height='30'>](https://discord.com/channels/@ba_marcheti#3824)
-[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/ba_marcheti)
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/barbara-marcheti-fiorin/)
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](bmarchetifiorin@gmail.com)
+<br />
 
+# 💻 Criadora
 
-# 💻 Criadores
+|  Author
+| :----: |
+| [<img src="https://github.com/bamarcheti.png?size=115" width=115><br><sub>@bamarcheti</sub>](https://github.com/bamarcheti) |
 
-|  Author  |  Collaborator  |
-| :----: | :----: |
-| [<img src="https://github.com/bamarcheti.png?size=115" width=115><br><sub>@bamarcheti</sub>](https://github.com/bamarcheti) <br><br><br> | [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrhrifat) |
+<br />
+
+# 💻 Colaboradores
+
+|  Collaborator  |  Collaborator  |  Collaborator  |  Collaborator  |
+| :----: | :----: | :----: | :----: |
+| [<img src="https://github.com/DenverCoder1.png?size=115" width=115><br><sub>@DenverCoder1</sub>](https://github.com/DenverCoder1) <br><br> [☕ Buy me a coffee](https://ko-fi.com/jlawrence) | [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrhrifat) | [<img src="https://github.com/tandpfun.png?size=250" width=115><br><sub>@tandpfun</sub>](https://github.com/tandpfun) <br><br> <a href='https://ko-fi.com/Q5Q860KQ2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | [<img src="https://github.com/vn7n24fzkq.png?size=250" width=115><br><sub>@vn7n24fzkq</sub>](https://github.com/vn7n24fzkq) <br><br><br><br> |
