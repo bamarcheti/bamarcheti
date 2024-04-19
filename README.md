@@ -48,8 +48,8 @@
 <br />
 
 # 📈 Projetos
-[![my-resume](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=my-resume)](https://github.com/Bamarcheti/my-resume)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Bamarcheti&repo=Portfolio)](https://github.com/Bamarcheti/Portfolio)
+[![my-resume](https://github-readme-stats.vercel.app/api/pin/?username=bamarcheti&repo=my-resume)](https://github.com/bamarcheti/my-resume)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=bamarcheti&repo=portfolio)](https://github.com/bamarcheti/portfolio)
 
 <br />
 
