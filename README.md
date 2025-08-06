@@ -2,7 +2,10 @@
 
 # 👩🏻 Biografia
 
-> *Sou graduada em Análise e Desenvolvimento de Sistemas (TADS) na Faculdade Insted. Trabalho há 2 anos com programação. Eu iniciei com Vue.js e hoje utilizo as ferramentas: React.js, Next.js, TypeScript, Tailwind, Prettier e ESLint, Headless UI, react-router-dom e outras. Eu já utilizei material ui e também styled-components em outros projetos. Atuo nos projetos internos da empresa como: Sistema de Gestão de Pessoas e Site da empresa. Todos com foco na usabilidade e acessibilidade do usuário, responsividade para desktop, tablet e mobile, integração com APIs,e arquitetura e código limpo. Tenho disponibilidade para trabalhar em qualquer modelo de trabalho que a empresa ofertar: presencial, híbrido ou remoto.*
+> *Sou graduada em Análise e Desenvolvimento de Sistemas (TADS) na Faculdade Insted. Atuo como desenvolvedora front-end há quase 3 anos, com foco em criar interfaces acessíveis, responsivas e com código limpo e escalável.
+Tenho forte domínio em React.js, TypeScript e Tailwind CSS, seguindo princípios de arquitetura de componentes e boas práticas de clean code. Também possuo experiência com Vue.js, Next.js, Headless UI, React Router DOM, Material UI, Styled-components, Prettier e ESLint.
+Participei de projetos de grande impacto, como a modernização do portal Detran-MS, além de Sistemas Internos de Gestão. Também possuo uma base sólida em Análise de Sistemas, fruto da minha esperiências como estagiária na área.
+Atualmente, estou me aprofundando em Node.js e buscando oportunidades Desenvolvedora Front-End, com objetivo de me tornar uma Desenvolvedora Full Stack futuramente.*
 
 <br />
 
