@@ -9,44 +9,36 @@ Atualmente, estou me aprofundando em Node.js e buscando oportunidades Desenvolve
 
 <br />
 
-|   |   |
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=bamarcheti&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bamarcheti&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
+
+<!-- |   |   |
 |:---:|:---:|
 |Most Used Languages|GitHub Stats|
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamarcheti&layout=compact&langs_count=7&theme=radical) | ![](https://github-readme-stats.vercel.app/api?username=Bamarcheti&show_icons=true&theme=radical) |
   |GitHub Commits|Details|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bamarcheti&theme=radical&utcOffset=-8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bamarcheti&theme=radical) |
-
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bamarcheti&theme=radical&utcOffset=-8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bamarcheti&theme=radical) | -->
 <br />
 
-
 # 🛠 Tecnologias
-<details align="left">
-  <summary><strong>Forte</strong></summary> 
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</details>
+<!-- <details align="left"> -->
+<!--   <summary><strong>Forte</strong></summary> -->
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<!-- </details> -->
 
-<details align="left">
-  <summary><strong>Média</strong></summary> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
-  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
-</details>
+<!-- <details align="left"> -->
+<!--   <summary><strong>Média</strong></summary> -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> 
+<!-- </details> -->
 
-<details align="left">
-  <summary><strong>Fraca</strong></summary>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-</details>
+<!-- <details align="left"> -->
+<!--   <summary><strong>Fraca</strong></summary> -->
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<!-- </details> -->
 
 <br />
 
@@ -57,7 +49,8 @@ Atualmente, estou me aprofundando em Node.js e buscando oportunidades Desenvolve
 <br />
 
 # 💜 Contato
-[![](https://skillicons.dev/icons?i=vercel&perline=1)](https://my-resume-bamarcheti.vercel.app/)
+Confira meu [portfólio](https://my-resume-bamarcheti.vercel.app/).
+
 [![](https://skillicons.dev/icons?i=discord&perline=1)](https://discord.com/channels/@ba_marcheti#3824)
 [![](https://skillicons.dev/icons?i=instagram&perline=1)](https://www.instagram.com/ba_marcheti)
 [![](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/barbara-marcheti-fiorin/)
